@@ -14,6 +14,7 @@
 - 💬 Ask me about **Java, MERN**
 
 - 📫 How to reach me **udithjeewapadma117@gmail.com**
+- **udithjswanasingha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
