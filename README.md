@@ -27,6 +27,7 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&" alt="udithjeewapadma" /></p>
 
+<br>
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
