@@ -38,18 +38,13 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
 </p>
 
----
-
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&theme=default" alt="GitHub Streak"/>
-</p>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&theme=default" alt="GitHub Streak" width="48%"/>
+</div>
 
----
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
