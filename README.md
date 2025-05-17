@@ -41,10 +41,9 @@
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 400px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 360px; height: 190px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&theme=default" alt="GitHub Streak" style="width: 400px; height: 200px;" />
 </div>
-
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
