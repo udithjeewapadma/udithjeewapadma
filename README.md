@@ -27,12 +27,13 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&" alt="udithjeewapadma" /></p>
 
-<br>
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udithjeewapadma&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+<div style="margin-top: 60px;">
+  <h2 align="center">🏆 GitHub Trophies</h2>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=udithjeewapadma&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  </div>
 </div>
+
 
 
 
