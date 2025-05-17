@@ -40,10 +40,11 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&theme=default" alt="GitHub Streak" width="48%"/>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 400px; height: 200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&theme=default" alt="GitHub Streak" style="width: 400px; height: 200px;" />
 </div>
+
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
