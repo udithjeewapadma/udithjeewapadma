@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Udith Jeewapadma</h1>
 <h3 align="center">🚀 Passionate Backend Developer from Sri Lanka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<img align="right" alt="Coding" width="500" height="250" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
-- 🎓 I'm currently an undergraduate at **SLIIT**
+- 🎓 I'm currently pursuing my undergraduate studies at **SLIIT**
 - 🌱 I’m learning **Java Spring Boot**
-- 💬 Ask me about **Java, MERN Stack**
+- 💬 Feel free to ask me about **Java** 
 - 📫 Reach me at **udithjswanasingha@gmail.com**
 
 ---
@@ -40,10 +40,12 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 360px; height: 190px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&theme=default" alt="GitHub Streak" style="width: 400px; height: 200px;" />
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 370px; height: 190px;" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&theme=default" alt="GitHub Streak" style="width: 630px; height: 200px;" />
 </div>
+
+
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
