@@ -26,3 +26,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="udithjeewapadma" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&" alt="udithjeewapadma" /></p>
+
+##Github Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udithjeewapadma&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
+
+
