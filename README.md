@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 370px; height: 190px;" />&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&theme=default" alt="GitHub Streak" style="width: 630px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udithjeewapadma&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 370px; height: 190px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithjeewapadma&theme=default" alt="GitHub Streak" style="width: 600px; height: 200px;" />
 </div>
 
 
